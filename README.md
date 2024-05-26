@@ -10,7 +10,7 @@
 - - Abrir o terminal (sugestão o vscode)
   - Acessar o diretorio onde foram salvos/clonados os arquivos .tf
 
-Dentro do terminal executar o comando, e confirmar a execução
+Dentro do terminal executar o comando
 
     $ terraform init
 
