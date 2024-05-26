@@ -29,3 +29,6 @@ Executar o comando, confirmar suas ações e aguardar a conclusão e verificar n
 Comandos para deletar os recursos criados
 
     $ terraform destroy 
+
+# OBSERVAÇÃO 
+> Configuração não esta completa, faltam configurações da rede e das aplicações
